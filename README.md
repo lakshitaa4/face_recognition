@@ -1,5 +1,5 @@
 # <h1 align="center">FACE DETECTION CHECK IN SYSTEM USING PYTHON AND ITS LIBRARIES</h1>
---#### Video Demo: https://youtu.be/ylIaqFdvJXc--
+<!---#### Video Demo: https://youtu.be/ylIaqFdvJXc-->
 
 #### Description
 ***This is my final project for Harvard's CS50x course. I'm glad to be able to finish this course and make this project.***
